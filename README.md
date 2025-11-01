@@ -1,4 +1,4 @@
-# Faisal Abdul Rahman — Security Operations Center (SOC) Analyst / Blue Team
+# Faisal Abdul Rahman — Security Analyst / Blue Team
 
 ## Roadmap Journey — Security Operations Center
 
