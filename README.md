@@ -14,7 +14,7 @@ This repository serves as my **personal portfolio**, showcasing my learning jour
 - **Diploma Degree in Information Technology** from Telkom University, providing technical and cybersecurity support as an Application Support Engineer.  
 - Graduate of **Google IT Support**, **Huawei**, **BNSP**, and **HCIA Cybersecurity** certification programs.  
 - Experienced in **Application Support**, **Technical Writing**, **Technical Support**, and **Android Development**.  
-- Passionate about **Penetration Testing**, **IT Infrastructure**, **Cyber Threat Intelligence**, and **Cybersecurity**.  
+- Passionate about **Digital Forensic**, **IT Infrastructure**, **Cyber Threat Intelligence**, and **Cybersecurity**.  
 
 ---
 
@@ -54,7 +54,7 @@ Setiap insiden disertai dengan langkah **analisis, kesimpulan, dan rekomendasi m
 
 ---
 
-## 🧱 Tools yang Dikuasai
+## Tools yang Dikuasai
 | Tools | Fungsi Utama |
 |-------|---------------|
 | IBM QRadar | SIEM & Log Correlation |
@@ -67,7 +67,7 @@ Setiap insiden disertai dengan langkah **analisis, kesimpulan, dan rekomendasi m
 
 ---
 
-## 📚 Sertifikasi & Pembelajaran
+## Sertifikasi & Pembelajaran
 - TryHackMe: *SOC Level 1 Path*  
 - Microsoft Learn: *Security Operations Fundamentals*  
 - MITRE ATT&CK: *Threat Detection Framework*  
@@ -75,28 +75,13 @@ Setiap insiden disertai dengan langkah **analisis, kesimpulan, dan rekomendasi m
 
 ---
 
-## 🚀 Rencana Pengembangan (Roadmap)
-| Tahap | Fokus Pembelajaran | Target |
-|-------|--------------------|--------|
-| **Level 1** | Dasar SOC, Log Analysis, Alert Handling | ✅ Selesai |
-| **Level 2** | SIEM Use Case Creation, Incident Response | 🔄 Sedang Berjalan |
-| **Level 3** | Automation (SOAR), Threat Hunting, Threat Intel | 🎯 Target 2026 |
-
----
-
-## 🧠 Filosofi Kerja
-> *“Detect early, respond fast, and always learn from every incident.”*  
-Saya percaya bahwa SOC bukan hanya tempat memantau, tapi pusat pembelajaran berkelanjutan untuk memahami perilaku ancaman digital.
-
----
-
 ## 📬 Kontak
-📧 **Email:** [email kamu di sini]  
-🌐 **LinkedIn:** [tautan LinkedIn kamu di sini]  
-📁 **GitHub:** [tautan repo kamu ini]
+📧 **Email:** faisalabdulrahman365@gmail.com  
+🌐 **LinkedIn:** [[tautan LinkedIn kamu di sini] ](https://www.linkedin.com/in/faisalabdulrahman-0475aa22b/) 
+📁 **GitHub:** [[tautan repo kamu ini]](https://github.com/faisalabdulr)
 
 ---
 
 ### ⭐ Dukung Portofolio Ini
 Jika kamu tertarik dengan perjalanan saya atau ingin berdiskusi tentang cyber security, jangan ragu untuk menghubungi saya!  
-Jangan lupa **Star ⭐** repositori ini untuk mendukung perjalanan karier saya di dunia SOC!
+Jangan lupa **Star ⭐** repositori ini untuk mendukung perjalanan karier saya di dunia Cyber Security!
