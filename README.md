@@ -29,7 +29,7 @@ To build a practical learning roadmap and documentation that reflects my capabil
 ---
 
 
-## 🧩 Skill Teknis
+##  Skill Teknis
 | Area | Kemampuan |
 |------|------------|
 | **SIEM Analysis** | IBM QRadar: Rule, Offense, Log Correlation, dan Dashboard Monitoring |
@@ -43,7 +43,7 @@ To build a practical learning roadmap and documentation that reflects my capabil
 
 ---
 
-## 📊 Contoh Analisis Insiden
+## Contoh Analisis Insiden
 Berikut beberapa contoh analisis yang saya dokumentasikan:
 - **C2 (Command & Control):** Hidden HTTPS Tunnel / Redundant Access  
 - **Exfiltration:** Hidden DNS Tunnel / Suspicious Sharing (M365)  
@@ -75,7 +75,7 @@ Setiap insiden disertai dengan langkah **analisis, kesimpulan, dan rekomendasi m
 
 ---
 
-## 📬 Kontak
+## Kontak
 📧 **Email:** faisalabdulrahman365@gmail.com  
 🌐 **LinkedIn:** [[faisalabdulrahman] ](https://www.linkedin.com/in/faisalabdulrahman-0475aa22b/) 
 📁 **GitHub:** [[faisalabdulr]](https://github.com/faisalabdulr)
