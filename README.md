@@ -77,8 +77,8 @@ Setiap insiden disertai dengan langkah **analisis, kesimpulan, dan rekomendasi m
 
 ## 📬 Kontak
 📧 **Email:** faisalabdulrahman365@gmail.com  
-🌐 **LinkedIn:** [[tautan LinkedIn kamu di sini] ](https://www.linkedin.com/in/faisalabdulrahman-0475aa22b/) 
-📁 **GitHub:** [[tautan repo kamu ini]](https://github.com/faisalabdulr)
+🌐 **LinkedIn:** [[faisalabdulrahman] ](https://www.linkedin.com/in/faisalabdulrahman-0475aa22b/) 
+📁 **GitHub:** [[faisalabdulr]](https://github.com/faisalabdulr)
 
 ---
 
