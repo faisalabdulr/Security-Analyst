@@ -4,7 +4,7 @@
 
 ### About Me
 Hello! I'm **Faisal Abdul Rahman**, a **Level 1 Security Operations Center (SOC) Analyst** specializing in **Threat Intelligence, Threat Detection, Incident Response, and SIEM Analysis**.  
-I have hands-on experience analyzing and investigating security incidents from various platforms such as **IBM QRadar**, **Vectra Detect**, **Microsoft Entra (Azure AD)**, **Palo Alto**, **SentinelOne**, **Akamai**, **Microsoft Defender**, **AWS WAF**,**F5** and For Cyber Threat intelligence using Cyfirma.
+I have hands-on experience analyzing and investigating security incidents from various platforms such as **IBM QRadar**, **Vectra Detect**, **Microsoft Entra (Azure AD)**, **Palo Alto**, **SentinelOne**, **Akamai**, **Microsoft Defender**, **AWS WAF**,**F5** and For Cyber Threat intelligence using **Cyfirma**.
 
 This repository serves as my **personal portfolio**, showcasing my learning journey, technical skills, and real-world practices in **Cybersecurity Blue Team Operations and Cyber Threat Intellingece**.
 
@@ -45,7 +45,7 @@ To build a practical learning roadmap and documentation that reflects my capabil
 
 ---
 
-## insident Analys example
+## Insident Analys example
 Here are somes example Analys thait it Documented :
 - **C2 (Command & Control):** Hidden HTTPS Tunnel / Redundant Access  
 - **Exfiltration:** Hidden DNS Tunnel / Suspicious Sharing (M365)  
@@ -77,7 +77,7 @@ Here are somes example Analys thait it Documented :
 
 ---
 
-## contact
+## Contact
 📧 **Email:** faisalabdulrahman365@gmail.com  
 🌐 **LinkedIn:** [[faisalabdulrahman] ](https://www.linkedin.com/in/faisalabdulrahman-0475aa22b/) 
 📁 **GitHub:** [[faisalabdulr]](https://github.com/faisalabdulr)
