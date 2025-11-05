@@ -31,7 +31,7 @@ To build a practical learning roadmap and documentation that reflects my capabil
 
 
 ##  Skill Teknis
-| Area | Kemampuan |
+| Area | ability |
 |------|------------|
 | **SIEM Analysis** | IBM QRadar: Rule, Offense, Log Correlation, dan Dashboard Monitoring |
 | **Network Detection** | Vectra Detect: Hidden DNS Tunnel, HTTPS Tunnel, Potential Bot Traffic |
