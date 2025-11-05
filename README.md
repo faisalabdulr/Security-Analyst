@@ -30,7 +30,7 @@ To build a practical learning roadmap and documentation that reflects my capabil
 ---
 
 
-##  Skill Teknis
+##  Technical Skills
 | Area | ability |
 |------|------------|
 | **SIEM Analysis** | IBM QRadar: Rule, Offense, Log Correlation, dan Dashboard Monitoring |
