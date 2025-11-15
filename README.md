@@ -41,7 +41,7 @@ To build a practical learning roadmap and documentation that reflects my capabil
 | **Web Protection** | Akamai & F5: WAF Policy Monitoring, Request Inspection |
 | **Incident Handling** | Triage, Escalation, dan Documentation |
 | **Threat Framework** | MITRE ATT&CK, Cyber Kill Chain |
-| **Cyber Threat Intellingence** | Threat Intellingence  |
+| **Cyber Threat Intellingence** | Cyfirma : Threat Intellingence  |
 
 ---
 
