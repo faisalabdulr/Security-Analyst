@@ -56,16 +56,18 @@ Here are somes example Analys thait it Documented :
 
 ---
 
-## Mastered Tools that in SOC
 | Tools | Main Function |
 |-------|---------------|
-| IBM QRadar | SIEM & Log Correlation |
-| Vectra AI | Network Threat Detection |
-| Microsoft Entra | Identity & Access Management |
-| Akamai | Web Application Firewall |
-| Palo Alto | Firewall & Threat Prevention |
-| SentinelOne | Endpoint Detection & Response |
-| F5 | Load Balancer & Application Protection |
+| **IBM QRadar** | SIEM, Log Correlation, Offense Analysis |
+| **Vectra AI** | Network Threat Detection & NDR Analytics |
+| **Microsoft Entra** | Identity & Access Management, Sign-in Monitoring |
+| **Microsoft Defender for Endpoint** | Endpoint Protection, Automated Investigation, TVM |
+| **Akamai** | Web Application Firewall & CDN Security |
+| **Palo Alto Networks** | Firewall, Threat Prevention, Traffic Inspection |
+| **SentinelOne** | Endpoint Detection & Response (EDR) |
+| **F5** | Load Balancer & Application Security |
+| **Cyfirma** | Cyber Threat Intelligence, Attack Surface Intelligence |
+| **HCL BigFix** | Patch Management & Endpoint Compliance |
 
 ---
 
